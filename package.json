@@ -1,0 +1,19 @@
+{
+  "name": "selfie",
+  "version": "1.0.0",
+  "description": "Example code of Selfie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Data",
+    "Example",
+    "Selfie"
+  ],
+  "author": "Brennen F",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
